@@ -6,7 +6,7 @@
 
 ## Original
 
-![Original](https://raw.githubusercontent.com/xkumiyu/numpy-data-augmentation/master/data/input/cat_croped.jpg "Original")
+![Original](https://raw.githubusercontent.com/xkumiyu/numpy-data-augmentation/master/data/input/cat_224.jpg "Original")
 
 ## Horizontal Flip
 
